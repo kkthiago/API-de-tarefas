@@ -1,0 +1,1 @@
+Este é um projeto focado em API usando CRUD, com intenção de anotar e manter uma rotina doméstica.
